@@ -1,0 +1,1 @@
+echo 'serviceName ' $(date)  'optionPop' >> /var/log/bingocloud/HightService.log

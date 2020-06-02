@@ -1,0 +1,1 @@
+/opt/bingocloud/latest/output/bin/bingocloud run all sed -i 's/0.0.0.0/ecr_ip/g' /opt/bingocloud/latest/output/config/ecr.cfg 2> /dev/null
